@@ -12,4 +12,4 @@ function logWhisper(string) {
 }
 
 function sayHiToGrandma(string) {
-return 'hello'.toUpperCase }
+return string.'hello' }
